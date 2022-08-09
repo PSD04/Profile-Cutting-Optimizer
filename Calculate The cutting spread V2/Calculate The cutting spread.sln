@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate The cutting spread", "Calculate The cutting spread\Calculate The cutting spread.csproj", "{FC424215-152E-40FB-A386-E1B36CD4E4E0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Calculate the Calculate Spread", "Setup Calculate the Calculate Spread\Setup Calculate the Calculate Spread.vdproj", "{76D8C8CC-F3F2-4878-8926-9E5FA42187BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC424215-152E-40FB-A386-E1B36CD4E4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC424215-152E-40FB-A386-E1B36CD4E4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC424215-152E-40FB-A386-E1B36CD4E4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC424215-152E-40FB-A386-E1B36CD4E4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D8C8CC-F3F2-4878-8926-9E5FA42187BA}.Debug|Any CPU.ActiveCfg = Debug
+		{76D8C8CC-F3F2-4878-8926-9E5FA42187BA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

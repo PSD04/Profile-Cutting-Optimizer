@@ -1,0 +1,28 @@
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\bin\Release\Calculate The cutting spread.exe.config
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\bin\Release\Calculate The cutting spread.exe.manifest
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\bin\Release\Calculate The cutting spread.application
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\bin\Release\Calculate The cutting spread.exe
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\bin\Release\Calculate The cutting spread.pdb
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate The cutting spread.csprojResolveAssemblyReference.cache
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate_The_cutting_spread.AboutBox1.resources
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate_The_cutting_spread.frmMain.resources
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate_The_cutting_spread.Properties.Resources.resources
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate The cutting spread.csproj.GenerateResource.Cache
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate The cutting spread.exe.manifest
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate The cutting spread.application
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate The cutting spread.exe
+C:\Users\tal-1\documents\visual studio 2013\Projects\Calculate The cutting spread\Calculate The cutting spread\obj\Release\Calculate The cutting spread.pdb
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate The cutting spread.csprojResolveAssemblyReference.cache
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate_The_cutting_spread.AboutBox1.resources
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate_The_cutting_spread.frmMain.resources
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate_The_cutting_spread.Properties.Resources.resources
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate The cutting spread.csproj.GenerateResource.Cache
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\bin\Release\Calculate The cutting spread V2.exe.config
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\bin\Release\Calculate The cutting spread V2.exe.manifest
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\bin\Release\Calculate The cutting spread V2.application
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\bin\Release\Calculate The cutting spread V2.exe
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\bin\Release\Calculate The cutting spread V2.pdb
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate The cutting spread V2.exe.manifest
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate The cutting spread V2.application
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate The cutting spread V2.exe
+C:\Users\tal-1\Documents\Visual Studio 2013\Projects\Calculate The cutting spread V2\Calculate The cutting spread\obj\Release\Calculate The cutting spread V2.pdb
